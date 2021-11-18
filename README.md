@@ -16,4 +16,4 @@ Cypher uses AI to locate the admin folder on the mainframe thn uses a reverse pr
 4. Once detected which is only possible if someone knew of the attack and not using an antivirus, Cypher begins destroying the mainframe by executing the very naughty naught command of rm -rf / then deletes itself 
 
 
-***FOR DUCATIONAL PURPOSES ONLY***
+***FOR EDUCATIONAL PURPOSES ONLY***
